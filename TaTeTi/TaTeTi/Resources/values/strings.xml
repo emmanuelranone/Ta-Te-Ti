@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ta-Te-Ti</string>
+    <string name="action_settings">Settings</string>
+  <string name="txtNombre">Nombre Jugador X</string>
+  <string name="txtNombreO">Nombre Jugador O</string>
+  <string name="btnJugar">JUGAR</string>
+  <string name="btnPosi">POSICIONES</string>
+  <string name="btnSalir">SALIR</string>
+  <string name="btnVolver">VOLVER</string>
+</resources>
